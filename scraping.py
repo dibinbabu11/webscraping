@@ -17,4 +17,3 @@ for job in jobs:
 
         print(title,company,last_date,link)
         file.write(title + ' '+company + ' '+last_date +'\n '+ link +'\n\n' )
-
